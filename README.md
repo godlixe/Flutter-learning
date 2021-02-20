@@ -6,4 +6,4 @@ A new Flutter project.
 
 Project ini hanya bagian dari proses pembelajaran saya
 https://giphy.com/gifs/V1P6PXERwFFfgGGNNM
-![](https://giphy.com/gifs/V1P6PXERwFFfgGGNNM.gif)
+![](https://github.com/godlixe/img/blob/main/Flutter_UbahWarna.gif)
