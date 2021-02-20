@@ -54,6 +54,7 @@ class _MyAppState extends State<MyApp> {
                         setState(() {
                           theme = Colors.primaries[
                               Random().nextInt(Colors.primaries.length)];
+                          //line to change to random colors
                         });
                       },
                       child: Text("Tukar Warna"),
